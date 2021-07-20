@@ -5,4 +5,4 @@ AR.js tutorial test
 npm install;
 npm start; 
 go tp http://localhost:8080 in your laptop browser;
-use hiro image on your phone https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg; red spinning cube will follow hiro image on your screen.
+use https://github.com/AR-js-org/AR.js/blob/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg image for image tracking. NFT files for images saved in trex-image folder. Any images could be used after NFT conversion, just save them in that folder. 
